@@ -1,0 +1,22 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"Incident": {
+		"IncidentUUID": "",               
+		"IncidentCategory": "",           
+		"IncidentStatus": "",             
+		"IncidentTitle": "string",              
+		"IncidentUTCDateTime": "",        
+		"IncidentLocationDescription": "",
+		"EHSLocationUUID": "",            
+		"To_Attachments": "",             
+		"To_Persons": "",                 
+		"To_Location": ""               
+	},
+	"api_schema": "sap.s4.beh.incident.v1.Incident.Created.v1",
+	"accepter": ["IncidentTitle"],
+	"incident_code": "",
+	"deleted": false
+}
