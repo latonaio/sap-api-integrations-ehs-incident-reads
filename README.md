@@ -19,7 +19,7 @@ sap-api-integrations-ehs-incident-reads は、外部システムがクラウド�
 sap-api-integrations-ehs-incident-reads が対応する APIサービス は、次のものです。
 
 * APIサービス概要説明 URL: https://api.sap.com/api/OP_API_EHS_REPORT_INCIDENT_SRV_0001/overview
-* APIサービス名(=baseURL): API_INCIDENT
+* APIサービス名(=baseURL): API_EHS_REPORT_INCIDENT_SRV
 
 ## 本レポジトリ に 含まれる API名
 sap-api-integrations-ehs-incident-reads には、次の API をコールするためのリソースが含まれています。  
