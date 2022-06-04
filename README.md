@@ -31,7 +31,7 @@ sap-api-integrations-ehs-incident-reads において、API への値入力条件
 
 ### SDC レイアウト
 
-* inoutSDC.EHS.Incident（出来事）
+* inoutSDC.Incident.IncidentTitle（出来事）
 
 ## SAP API Bussiness Hub の API の選択的コール
 
